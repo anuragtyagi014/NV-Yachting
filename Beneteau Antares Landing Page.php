@@ -8,6 +8,7 @@ get_header();
 
 ?>
 
+
 <?php
 if (have_rows('first_section_content')) :
     while (have_rows('first_section_content')) : the_row();

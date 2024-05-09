@@ -7,6 +7,7 @@ Template Name: Apply for Financing Template
 get_header();
 
 ?>
+
 <style>
     .loan-input-feild p {}
 
